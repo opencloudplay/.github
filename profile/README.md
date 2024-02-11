@@ -1,6 +1,6 @@
-# OpenCloudPlay README.md
+# OpenCloudPlay
 
-Welcome to OpenCloudPlay, an open-source initiative designed to help the way we game by leveraging the power of cloud computing. Our mission is to make high-quality gaming accessible to everyone, everywhere, without the need for expensive, high-end local hardware. By utilizing cloud infrastructure, OpenCloudPlay aims to create a seamless, high-performance gaming experience that can be streamed to any device.
+Welcome to OpenCloudPlay, an open-source initiative designed to help the way we game by leveraging the power of cloud computing. Our mission is to make high-quality gaming accessible to everyone, everywhere, without the need for expensive, high-end local hardware. By utilizing cloud infrastructure, OpenCloudPlay aims to create a seamless, high-performance gaming experience that can be streamed to any device. Check out infrastructure repo https://github.com/opencloudplay/opencloudplay
 
 ## Goal
 
