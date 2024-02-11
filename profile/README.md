@@ -22,24 +22,22 @@ OpenCloudPlay is a community-driven project, and we welcome contributions from e
 - **Feedback and Ideas:** Share your feedback on the current setup and your ideas for new features or improvements.
 - **Spread the Word:** Help us grow the community by talking about OpenCloudPlay on social media, forums, and within your network.
 
+You can get in touch for contributions via linkedin https://www.linkedin.com/in/alexmuradov/ or by opening an issue on Github.
+
 ## Getting Started
 
 To get started with OpenCloudPlay, you'll need:
 
 - Basic knowledge of cloud computing and virtualization.
-- An account with a cloud provider (starting with AWS).
+- An account with a cloud provider.
 - Familiarity with Terraform or similar infrastructure as code tools is a plus.
 
 Check out the `docs` directory for step-by-step guides on setting up your cloud gaming infrastructure.
 
 ## Support
 
-If you need help or have any questions, please feel free to open an issue in the GitHub repository or join our community chat on [Discord/Slack (placeholder for actual link)].
+If you need help or have any questions, please feel free to open an issue in the GitHub repository.
 
 ## License
 
 OpenCloudPlay is released under the MIT License. See the LICENSE file in the repository for more details.
-
----
-
-By contributing to OpenCloudPlay, you're helping make high-quality gaming experiences accessible to a broader audience and shaping the future of gaming. Let's build something amazing together!
